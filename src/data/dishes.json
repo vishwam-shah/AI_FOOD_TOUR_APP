@@ -1,0 +1,7 @@
+{
+  "Tokyo": ["Sushi", "Ramen", "Tempura"],
+  "Paris": ["Croissant", "Coq au Vin", "Crepes"],
+  "Mumbai": ["Vada Pav", "Pav Bhaji", "Biryani"],
+  "New York": ["Bagel", "Cheesecake", "Hot Dog"],
+  "Rome": ["Carbonara", "Pizza Bianca", "Gelato"]
+}
